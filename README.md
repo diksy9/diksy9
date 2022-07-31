@@ -14,4 +14,4 @@
 </a>
 
 ## Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/UsiFX/github-profile-trophy)
+
