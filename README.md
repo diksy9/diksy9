@@ -13,5 +13,5 @@
 <img align = "center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=UsiFX&theme=tokyonight&hide_rank=false&border_radius=10&line_height=28&hide_border=true&text_color=a3a3a3">
 </a>
 
-## Trophies
+
 
