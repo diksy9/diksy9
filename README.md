@@ -1,4 +1,5 @@
 # Hello World ! My Name Diki Rizkiawan ☄️.
+<a> <img src="https://komarev.com/ghpvc/?username=dikiawan-9&style=flat-square" alt="dikiawan-9" /> </a>
 ##### i am working in <a href="https://t.me/DixiProject">DikiProject</a> oragnization
 ##### i am working for <a href="https://github.com/dikiawan-9/link">Website</a> Project
 ##### You can also reach me at <a href="https://t.me/DixiEX">Telegram</a> or <a href="https://dixiexe.netlify.app/">My Website.</a>
