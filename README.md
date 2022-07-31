@@ -14,6 +14,12 @@
 <img align = "center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=UsiFX&theme=tokyonight&hide_rank=false&border_radius=10&line_height=28&hide_border=true&text_color=a3a3a3">
 </a>
 
+## Most used programming languages
+![C](https://img.shields.io/badge/-C-00599c?style=flat-square&logo=C&logoColor=fff)
+![Java](https://img.shields.io/badge/-Java-cd6839?style=flat-square&logo=Java&logoColor=fff)
+![Kotlin](https://img.shields.io/badge/-Kotlin-7f52ff?style=flat-square&logo=kotlin&logoColor=fff)
+![C#](https://img.shields.io/badge/-C%23-008b45?style=flat-square&logo=csharp&logoColor=fff)
+
 ## 💻 Working environment
 [![Windows 11](https://img.shields.io/badge/Windows%2011-00adef?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/en-us/windows/windows-11)
 
