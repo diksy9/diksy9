@@ -13,5 +13,8 @@
 <img align = "center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=UsiFX&theme=tokyonight&hide_rank=false&border_radius=10&line_height=28&hide_border=true&text_color=a3a3a3">
 </a>
 
+## 💻 Working environment
+[![Windows 11](https://img.shields.io/badge/Windows%2011-00adef?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/en-us/windows/windows-11)
 
-
+## 📱 Devices in use
+[![Redmi Note 7](https://img.shields.io/badge/Redmi%20K20%20Pro-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/global/redmi-note-7/)
