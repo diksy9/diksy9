@@ -4,6 +4,8 @@
 ##### i am working for <a href="https://github.com/dikiawan-9/link">Website</a> Project
 ##### You can also reach me at <a href="https://t.me/DixiEX">Telegram</a> or <a href="https://dixiexe.netlify.app/">My Website.</a>
 
+<img src="https://activity-graph.herokuapp.com/graph?username=dikiawan-9&theme=algolia">
+
 ##  Stats And Languages
 
 <br>
