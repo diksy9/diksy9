@@ -7,15 +7,12 @@
 
 <img src="https://activity-graph.herokuapp.com/graph?username=dikiawan-9&theme=algolia">
 
-##  Stats And Languages
+### GitHub Statistics
+![Github Stats](https://github-readme-stats.vercel.app/api?username=dikiawan-9&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight&show_owner=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dikiawan-9&hide=TeX&layout=compact&theme=tokyonight&langs_count=8)
 
-<br>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align = "center" src = "https://github-readme-stats.vercel.app/api?username=dikiawan-9&show_icons=true&theme=tokyonight&line_height=27&hide_rank=false&border_radius=10&line_height=28&hide_border=true&count_private=true&text_color=a3a3a3">
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align = "center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=dikiawan-9&theme=tokyonight&hide_rank=false&border_radius=10&line_height=28&hide_border=true&text_color=a3a3a3">
-</a>
+<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+<details>
 
 ## Most used programming languages
 ![C](https://img.shields.io/badge/-C-00599c?style=flat-square&logo=C&logoColor=fff)
