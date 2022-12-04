@@ -5,7 +5,7 @@
 ##### i am working for <a href="https://github.com/dikiawan-9/link">Website</a> Project
 ##### You can also reach me at <a href="https://t.me/DixiEX">Telegram</a> or <a href="https://dixiexe.netlify.app/">My Website.</a>
 
-<img src="https://activity-graph.herokuapp.com/graph?username=dikiawan-9&theme=algolia">
+
 
 ### GitHub Statistics
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=dikiawan-9&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight&show_owner=true)
