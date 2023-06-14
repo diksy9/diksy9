@@ -1,4 +1,4 @@
-# Hello World ! My Name Diki Rizkiawan ☄️.
+# Hello World ! My Name D I X I ☄️.
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png?raw=true)
 <a> <img src="https://komarev.com/ghpvc/?username=dikiawan-9&style=flat-square" alt="dikiawan-9" /> </a>
 ##### i am working in <a href="https://t.me/DixiProject">DikiProject</a> oragnization
