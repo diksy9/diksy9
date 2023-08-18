@@ -8,8 +8,8 @@
 
 
 ### GitHub Statistics
-![Github Stats](https://github-readme-stats.vercel.app/api?username=dikiawan-9&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight&show_owner=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dikiawan-9&hide=TeX&layout=compact&theme=tokyonight&langs_count=8)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=diksy9&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight&show_owner=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diksy9&hide=TeX&layout=compact&theme=tokyonight&langs_count=8)
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 <details>
