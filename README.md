@@ -1,6 +1,6 @@
 # Hello World ! My Name D I X I RIZKIAWAN ☄️.
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png?raw=true)
-<a> <img src="https://komarev.com/ghpvc/?username=dikiawan-9&style=flat-square" alt="diksy9" /> </a>
+<a> <img src="https://komarev.com/ghpvc/?username=diksy9&style=flat-square" alt="diksy9" /> </a>
 ##### i am working in <a href="https://t.me/DixiProject">DikiProject</a> oragnization
 ##### i am working for <a href="https://github.com/diksy9/link">Website</a> Project
 ##### You can also reach me at <a href="https://t.me/DixiEX">Telegram</a> or <a href="https://dixiexe.netlify.app/">My Website.</a>
