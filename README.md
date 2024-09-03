@@ -17,7 +17,6 @@
 ## Most used programming languages
 ![C](https://img.shields.io/badge/-C-00599c?style=flat-square&logo=C&logoColor=fff)
 ![Java](https://img.shields.io/badge/-Java-cd6839?style=flat-square&logo=Java&logoColor=fff)
-![Kotlin](https://img.shields.io/badge/-Kotlin-7f52ff?style=flat-square&logo=kotlin&logoColor=fff)
 ![C#](https://img.shields.io/badge/-C%23-008b45?style=flat-square&logo=csharp&logoColor=fff)
 
 ## 💻 Working environment
