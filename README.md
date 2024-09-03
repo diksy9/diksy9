@@ -22,5 +22,3 @@
 ## 💻 Working environment
 [![Windows 11](https://img.shields.io/badge/Windows%2011-00adef?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/en-us/windows/windows-11)
 
-## 📱 Devices in use
-[![Redmi Note 7](https://img.shields.io/badge/Redmi%20Note%207-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/global/redmi-note-7/)
