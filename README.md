@@ -1,4 +1,4 @@
-# ERROR 404 NOT FOUND ☄️.
+# DIXI ☄️.
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png?raw=true)
 <a> <img src="https://komarev.com/ghpvc/?username=diksy9&style=flat-square" alt="diksy9" /> </a>
 ##### i am working in <a href="https://t.me/DixiProject">DikiProject</a> oragnization
